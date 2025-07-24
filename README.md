@@ -1,1 +1,3 @@
-# Object-oriented_Programming_project
+Project to find the optimal path on a grid with obstacles and special cost zones using evolutionary programming. Implemented in Java with an object-oriented design, the simulation evolves a population of candidate paths from a start to an end point, balancing path cost and distance via a comfort metric. The population changes through stochastic events (death, reproduction, movement) managed by an event-driven simulator. The program accepts input parameters for grid size, points, obstacles, costs, and evolution settings, outputs periodic population stats during simulation, and prints the best path found at the end.
+
+Feat Chencheng Liu, Filipa Cunha and Pedro Yin
